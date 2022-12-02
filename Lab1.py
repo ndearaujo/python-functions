@@ -115,11 +115,11 @@ monthly_payment = amount_due / 12
 print ('The monthly payment is' , \
        format(monthly_payment, '.2f'))
 # program 2-21
-monthly_pay = 5000.00
-annual_pay = monthly_pay * 12
-print ('your annual pay is $', \
-       format (annual_pay, ',.2f'), \
-       sep='')
+#monthly_pay = 5000.00
+#annual_pay = monthly_pay * 12
+#print ('your annual pay is $', \
+#       format (annual_pay, ',.2f'), \
+#       sep='')
 # program 2-22
 num1 = 127.899
 num2 = 3465.148
